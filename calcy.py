@@ -10,5 +10,6 @@ b = 5
 print("  Addition result " , add(a,b))
 
 print("  Subraction result " , sub(a,b))
+print("  Multiplication result " , mul(a,b))
 
 
